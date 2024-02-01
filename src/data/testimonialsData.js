@@ -1,4 +1,4 @@
-import image1 from "../assets/t-image1.png";
+import image1 from "../assets/t-image1.1.png";
 import image2 from "../assets/t-image2.jpg";
 import image3 from "../assets/t-image3.jpg";
 
@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
+    review: 'Exceptional gym with top-notch facilities, friendly staff, motivating atmosphere, and effective fitness programs. Highly recommended!',
+    name: 'JONATHAN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:' Outstanding gym experience: professional trainers, state-of-the-art equipment, vibrant community, achieving fitness goals seamlessly. Impressive all-around!',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
